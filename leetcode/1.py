@@ -1,5 +1,5 @@
 class Solution:
-    # Test
+    # Test1
     def twoSum(self, nums, target):
         nums_hash = {}
         for i in range(len(nums)):
